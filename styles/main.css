@@ -22,7 +22,7 @@ body, html {
     background: #006d97; 
 
 /*    background: #fff;*/
-    font-family: "Favorit", "Helvetica Neue", "Helvetica", "Arial", sans-serif;
+    font-family: 'Favorit', "Helvetica Neue", "Helvetica", "Arial", sans-serif;
     -webkit-font-smoothing: antialiased;
     text-rendering: optimizeLegibility;
 }
@@ -148,8 +148,8 @@ html {
 }
 
 h1 {
-    font-family:  "Favorit", "Helvetica Neue", "Helvetica", "Arial", sans-serif;
-    font-weight: 300;
+    font-family:  'Favorit', "Helvetica Neue", "Helvetica", "Arial", sans-serif;
+    font-weight: 400;
     letter-spacing: -0.01em;
     line-height: 1.075em;
     font-size: 35px;
@@ -163,29 +163,29 @@ h1:first-of-type {
 }
 
 h2 {
-    font-family: "Favorit", "Helvetica Neue", "Helvetica", "Arial", sans-serif;
+    font-family: 'Favorit', "Helvetica Neue", "Helvetica", "Arial", sans-serif;
 }
 
 h3 {
-    font-family:  "Favorit", "Helvetica Neue", "Helvetica", "Arial", sans-serif;
+    font-family:  'Favorit', "Helvetica Neue", "Helvetica", "Arial", sans-serif;
     }
 
 h4 {
-    font-family:  "Favorit", "Helvetica Neue", "Helvetica", "Arial", sans-serif;
+    font-family:  'Favorit', "Helvetica Neue", "Helvetica", "Arial", sans-serif;
     font-size: 12em;
     line-height: 1.4em;
     font-weight: 400;
 }
 
 h5 {
-    font-family:  "Favorit", "Helvetica Neue", "Helvetica", "Arial", sans-serif;
+    font-family:  'Favorit', "Helvetica Neue", "Helvetica", "Arial", sans-serif;
     font-size: 12em;
     line-height: 1.4em;
     font-weight: 700;
 }
 
 h6 {
-    font-family:  "Favorit", "Helvetica Neue", "Helvetica", "Arial", sans-serif;
+    font-family:  'Favorit', "Helvetica Neue", "Helvetica", "Arial", sans-serif;
     color: #999;
     font-weight: 400;
     font-size: 10em;
@@ -193,7 +193,7 @@ h6 {
 }
  
 p {
-    font-family:  "Favorit", "Helvetica Neue", "Helvetica", "Arial", sans-serif;
+    font-family:  'Favorit', "Helvetica Neue", "Helvetica", "Arial", sans-serif;
     font-size: 13em;
     text-indent: 2em;
     line-height: 1.3;
@@ -772,7 +772,7 @@ p:first-of-type {
     height: 126px;
     border: 2px solid #000;
     border-width: 2px 0px 0px 0px;
-}
+} 
 
 .footer-home{
     position: relative;
